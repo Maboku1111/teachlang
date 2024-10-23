@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+
+:root {
+  --first-color: #dbd8e3;
+  --second-color: #5c5470;
+  --third-color: #352f44;
+  --fourth-color: #2a2438;
+}
+
+section {
+  width: 1152px;
+  height: 700px;
+  opacity: 1;
+  border-radius: 20px;
+  position: absolute;
+  top: 1888px;
+  left: 9332px;
+}
+
+card {
+  position: absolute;
+  top: 207px;
+  left: 161px;
+  width: 849px;
+  height: 283px;
+  margin: 22px;
+  padding: 22px;
+  opacity: 1;
+  border-radius: 16px;
+}
+
+#container {
+  position: absolute;
+  top: 37px;
+  left: 43px;
+  width: 776px;
+  height: 198px;
+  margin: 22px;
+  padding: 22px;
+  opacity: 1;
+  display: flex;
+}
+
+#paragraph {
+  position: absolute;
+  top: 43px;
+  left: 240px;
+  width: 573px;
+  height: 198px;
+  opacity: 1;
+}
+
+img {
+  position: absolute;
+  top: 60px;
+  left: 37px;
+  width: 181px;
+  height: 181px;
+}
